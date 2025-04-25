@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinema Listings</title>
+    <link rel="icon" type="image/png" href="./Pictures/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="./Pictures/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="./Pictures/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./Pictures/favicon/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="MyWebSite" />
+    <link rel="manifest" href="./Pictures/favicon/site.webmanifest" />
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body class="upcoming-page">
+    <!-- Main Header -->
+    <header> 
+        <div class="logo">
+            <img src="./Pictures/logo/galaxycinema.png" alt="Theatre Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./aboutus.html">About Us</a></li>
+                <li><a href="./upcoming.html">Upcoming</a></li>
+                <li><a href="./food.html">Food & Prices</a></li>
+                <li><a href="./nowshow.html">Now Showing</a></li>
+                <li><a href="./games.html">Gaming</a></li>
+                <li><a href="./book.html" class="active">Book Now</a></li>
+                <li><a href="./faq.html">FAQs</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+        <h1>UPCOMING MOVIES</h1>
+
+        <div id="upcoming-movies"></div>
+
+        <h1>NOW SHOWING</h1>
+
+        <div id="now-showing"></div>
+
+        <section class="special-offers">
+            <h2>Special Discount Offers</h2>
+            <div class="offers-container">
+                <div class="offer-card">
+                    <h3>Student Discount</h3>
+                    <p>Get 20% discount with your student ID</p>
+                </div>
+
+                <div class="offer-card">
+                    <h3>Double the Fun Deal</h3>
+                    <p>Buy 1 ticket, get the 2nd at 50% off - limited time only!</p>
+                </div>
+
+                <div class="offer-card">
+                    <h3>Family Package</h3>
+                    <p>Get 4 tickets for the price of 3 - perfect for a family movie night!</p>
+                </div>
+                
+            </div>
+        </section>
+          
+
+        <h2>Selected Tickets</h2>
+        <table id="ticket-table">
+            <thead>
+                <tr>
+                    <th>Movie</th>
+                    <th>Cinema</th>
+                    <th>Screening</th>
+                    <th>Time</th>
+                    <th>Tickets</th>
+                    <th>Price (per ticket)</th>
+                    <th>Total Price</th>
+                    <th>Remove</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <h2 id="total-price-display">Total: Rs.0.00</h2>
+
+        <button id="save-favourite">Save as Favourite</button>
+        <button id="apply-favourite">Apply Favourite</button>
+        <button id="checkout">Checkout</button>
+
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-logo">
+          <img src="/Pictures/logo/galaxycinema.png" alt="Theatre Logo">
+        </div>
+        <div class="footer-contact">
+          <p>15B/2, Hendala, Wattala</p>
+          <p>Phone: (+94)11-325-7690</p>
+          <p>Fax: (+94) 456-7891</p>
+          <p>Email: galaxycinema@gmail.com</p>
+        </div>
+        <div class="footer-social">
+          <a href="https://web.facebook.com/login.php/?_rdc=1&_rdr#"><img src="/Pictures/social/facebook.png" alt="Facebook"></a>
+          <a href="https://www.instagram.com/accounts/login/?hl=en"><img src="/Pictures/social/instagram.png" alt="Instagram"></a>
+          <a href="https://x.com/i/flow/login"><img src="/Pictures/social/x.jpg" alt="X"></a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

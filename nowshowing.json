@@ -1,0 +1,184 @@
+{
+  "now_showing": [
+    {
+      "title": "Amateur",
+      "poster": "Pictures/nowshowing/amateur.jpg",
+      "locations": [
+        {
+          "cinema": "Galaxy Cinema - Wattala",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "5:00 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "8:00 PM" },
+            { "type": "VIP", "icon": "Pictures/booking page/vip.png", "time": "6:30 PM" },
+            { "type": "3D & IMAX", "icon": "Pictures/booking page/3d-imax.png", "time": "7:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Matara",
+          "screenings": [
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "4:00 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "5:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Kandy",
+          "screenings": [
+            { "type": "VIP", "icon": "Pictures/booking page/vip.png", "time": "5:30 PM" },
+            { "type": "3D & IMAX", "icon": "Pictures/booking page/3d-imax.png", "time": "6:45 PM" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Working Man",
+      "poster": "Pictures/nowshowing/workingman.jpg",
+      "locations": [
+        {
+          "cinema": "Galaxy Cinema - Wattala",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "7:15 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "9:45 PM" },
+            { "type": "3D & IMAX", "icon": "Pictures/booking page/3d-imax.png", "time": "5:30 PM" },
+            { "type": "3D & IMAX", "icon": "Pictures/booking page/3d-imax.png", "time": "8:00 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Matara",
+          "screenings": [
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "4:45 PM" },
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "6:30 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "5:15 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "8:45 PM" },
+            { "type": "VIP", "icon": "Pictures/booking page/vip.png", "time": "7:00 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Kandy",
+          "screenings": [
+            { "type": "3D & IMAX", "icon": "Pictures/booking page/3d-imax.png", "time": "6:15 PM" },
+            { "type": "3D & IMAX", "icon": "Pictures/booking page/3d-imax.png", "time": "9:30 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "5:00 PM" },
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "8:00 PM" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A Minecraft Movie",
+      "poster": "Pictures/nowshowing/minecraft.jpg",
+      "locations": [
+        {
+          "cinema": "Galaxy Cinema - Wattala",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "11:15 AM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "02:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Matara",
+          "screenings": [
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "10:45 AM" },
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "04:30 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "06:15 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "10:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Kandy",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "11:00 AM" },
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "03:00 PM" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mufasa: The Lion King",
+      "poster": "Pictures/nowshowing/mufasa.jpg",
+      "locations": [
+        {
+          "cinema": "Galaxy Cinema - Wattala",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "10:15 AM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "02:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Kandy",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "12:00 AM" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Snow White",
+      "poster": "Pictures/nowshowing/snowwhite.jpg",
+      "locations": [
+        {
+          "cinema": "Galaxy Cinema - Wattala",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "12:15 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "09:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Matara",
+          "screenings": [
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "11:45 AM" },
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "02:30 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "10:15 AM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "02:45 PM" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nelum Kuluna",
+      "poster": "Pictures/nowshowing/nelumkuluna.jpg",
+      "locations": [
+        {
+          "cinema": "Galaxy Cinema - Wattala",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "11:15 AM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "03:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Matara",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "10:15 AM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "03:45 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "06:45 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Kandy",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "02:00 PM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "08:45 PM" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Good Bad Ugly",
+      "poster": "Pictures/nowshowing/goodbadugly.jpg",
+      "locations": [
+        {
+          "cinema": "Galaxy Cinema - Wattala",
+          "screenings": [
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "12:15 PM" }
+          ]
+        },
+        {
+          "cinema": "Galaxy Cinema - Kandy",
+          "screenings": [
+            { "type": "Gold", "icon": "Pictures/booking page/gold.png", "time": "11:45 AM" },
+            { "type": "Premium", "icon": "Pictures/booking page/premium.png", "time": "02:45 PM" }
+          ]
+        }
+      ]
+    }
+  ]
+}
