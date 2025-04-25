@@ -63,12 +63,12 @@ tbody tr:hover {
 
 /* Home page specific image styling */
 .index-page .intro-image {
-    background-image: url('/Pictures/intro/theatre4.jpg');
+    background-image: url('./Pictures/intro/theatre4.jpg');
 }
 
 /* Aboutus page specific image styling */
 .aboutus-page .intro-image {
-    background-image: url('/Pictures/intro/theatre2.jpg');
+    background-image: url('./Pictures/intro/theatre2.jpg');
 }
 
 

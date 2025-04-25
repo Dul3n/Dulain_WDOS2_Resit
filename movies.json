@@ -2,43 +2,43 @@
     "upcoming_movies": [
       {
         "title": "Avatar 3",
-        "poster": "Pictures/upcoming/avatar3.jpg"
+        "poster": "./Pictures/upcoming/avatar3.jpg"
       },
       {
         "title": "Baaghi 4",
-        "poster": "Pictures/upcoming/baaghi4.jpg"
+        "poster": "./Pictures/upcoming/baaghi4.jpg"
       },
       {
         "title": "F1",
-        "poster": "Pictures/upcoming/f1.jpg"
+        "poster": "./Pictures/upcoming/f1.jpg"
       },
       {
         "title": "How to Train Your Dragon",
-        "poster": "Pictures/upcoming/httyd.jpg"
+        "poster": "./Pictures/upcoming/httyd.jpg"
       },
       {
         "title": "Idly Kadai",
-        "poster": "Pictures/upcoming/idlykadai.jpg"
+        "poster": "./Pictures/upcoming/idlykadai.jpg"
       },
       {
         "title": "Jurassic World Rebirth",
-        "poster": "Pictures/upcoming/jurassicworld.jpg"
+        "poster": "./Pictures/upcoming/jurassicworld.jpg"
       },
       {
         "title": "Karate Kid",
-        "poster": "Pictures/upcoming/karatekid.jpg"
+        "poster": "./Pictures/upcoming/karatekid.jpg"
       },
       {
         "title": "Mission Impossible",
-        "poster": "Pictures/upcoming/missionimpossible.jpg"
+        "poster": "./Pictures/upcoming/missionimpossible.jpg"
       },
       {
         "title": "Superman",
-        "poster": "Pictures/upcoming/superman.jpg"
+        "poster": "./Pictures/upcoming/superman.jpg"
       },
       {
         "title": "Zootopia",
-        "poster": "Pictures/upcoming/zootopia.jpg"
+        "poster": "./Pictures/upcoming/zootopia.jpg"
       }
     ]
   }
